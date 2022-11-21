@@ -1065,7 +1065,7 @@ header li {
 
         padding-bottom: 75px;
     }
-    .contact-title{
+    .contacts-wrap h1{
         font-weight: 700;
         font-size: 40px;
         line-height: 120%;
@@ -1152,7 +1152,7 @@ header li {
     display: none;
     position: absolute;
     top: 159px;
-    right: 103px;
+    right: 273px;
 
     transition: 0.1s linear;
 }
@@ -1180,7 +1180,7 @@ header li {
     content: url('./img/modalHoverIcon.png');
     position: absolute;
     top: 12%;
-    right: 273px;
+    left: 0;
 }
 
 .modal_content div:hover{
