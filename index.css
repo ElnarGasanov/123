@@ -1047,7 +1047,7 @@ header li {
       }
 }
 
-.contacts-wrap h1{
+.contact-title{
     font-weight: 700;
     font-size: 56px;   
     line-height: 120%;  
@@ -1065,7 +1065,7 @@ header li {
 
         padding-bottom: 75px;
     }
-    .contacts-wrap h1{
+    .contact-title{
         font-weight: 700;
         font-size: 40px;
         line-height: 120%;
