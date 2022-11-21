@@ -1047,6 +1047,12 @@ header li {
       }
 }
 
+.contacts-wrap h1{
+    font-weight: 700;
+    font-size: 56px;   
+    line-height: 120%;  
+    color: #313B59;
+}
 
   .contacts-wrap{
     width: 46%;
@@ -1058,6 +1064,11 @@ header li {
         margin: 0 0 0 60px;
 
         padding-bottom: 75px;
+    }
+    .contacts-wrap h1{
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 120%;
     }
 }
 
@@ -1169,7 +1180,7 @@ header li {
     content: url('./img/modalHoverIcon.png');
     position: absolute;
     top: 12%;
-    left: 0;
+    right: 273px;
 }
 
 .modal_content div:hover{
